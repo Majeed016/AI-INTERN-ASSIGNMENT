@@ -91,10 +91,3 @@ I am proud of using constraint-based optimization to address a practical problem
 ## What Still Needs Improvement
 
 The main weakness is that distribution accuracy depends on the available question bank, and suitable replacements may not always exist. The dataset and replacement logic need further validation and testing to make the application more reliable.
-
-## Deliverables
-
-- Complete source code.
-- This README with setup and implementation details.
-- One sample generated question paper.
-- A hosted application link, if available.
